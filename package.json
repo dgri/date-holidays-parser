@@ -19,8 +19,8 @@
   "author": "commenthol <commenthol@gmail.com>",
   "contributors": [],
   "main": "lib",
-  "module": "src",
-  "jsnext:main": "src",
+  "module": "lib",
+  "jsnext:main": "lib",
   "directories": {
     "doc": "docs",
     "lib": "lib",
